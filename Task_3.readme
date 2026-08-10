@@ -1,0 +1,34 @@
+Hiring teams receive hundreds of resumes for a single job role.
+Manually reading each resume is slow, inconsistent, and error-prone.
+
+This is why many companies use Machine Learning–based resume screening systems to:
+
+shortlist candidates faster
+match skills with job requirements
+identify missing or weak skills
+reduce recruiter workload
+In this task, you will build a real ML system that automatically screens, scores, and ranks resumes based on a given job role.
+
+This is a very job-relevant project, commonly used in HR-tech startups, recruitment platforms, and enterprise hiring tools.
+
+🎯 Objective
+Your goal is to build an ML system that can:
+
+Read resume text (PDF/Text datasets)
+Extract skills and relevant keywords
+Compare resumes with a job description
+Rank candidates based on role fit
+Highlight missing or required skills
+This mirrors how real resume screening tools work, just on a smaller, beginner-friendly scale.
+
+✅ What You’ll Do
+As part of this task, you will:
+
+Work with unstructured resume text data
+Clean and preprocess text
+Extract skills using NLP techniques
+Build similarity or scoring logic
+Rank candidates based on job relevance
+Explain results clearly for non-technical users
+You are learning decision-support ML, not just model training.
+
